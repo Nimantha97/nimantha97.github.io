@@ -5,7 +5,8 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-image: url('background.jpg'); /* Replace 'header-background.jpg' with your actual image file */
+    background-size: cover;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -36,6 +37,8 @@ section {
 
 #about, #experience, #contact {
     background-color: #f4f4f4;
+    background-image: url('header.jpg'); /* Replace 'section-background.jpg' with your actual image file */
+    background-size: cover;
 }
 
 #about h2, #experience h2, #contact h2 {

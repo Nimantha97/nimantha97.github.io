@@ -36,11 +36,11 @@ section {
 }
 
 #about, #experience, #contact {
-    background-color: #e29389;
-    /*background-image: url('background1.jpg'); /* Replace 'section-background.jpg' with your actual image file */
+    background-color: #e7e2e1;
+    /*background-image: url('background1.jpg'); /* Replace 'section-background.jpg' with your actual image file 
     background-size: cover;
 }
-
+*/
 #about h2, #experience h2, #contact h2 {
     margin-top: 0;
 }

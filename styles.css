@@ -36,8 +36,8 @@ section {
 }
 
 #about, #experience, #contact {
-    background-color: #f4f4f4;
-    background-image: url('background1.jpg'); /* Replace 'section-background.jpg' with your actual image file */
+    background-color: #e29389;
+    /*background-image: url('background1.jpg'); /* Replace 'section-background.jpg' with your actual image file */
     background-size: cover;
 }
 
